@@ -1,0 +1,55 @@
+{
+  "title": "Level",
+  "items": [
+    {
+      "type": "embedded",
+      "hack": "noclip"
+    },
+    {
+      "type": "embedded",
+      "hack": "noclip_limit"
+    },
+    {
+      "type": "toggle",
+      "title": "Music Unlocker",
+      "description": "Unlocks practice music, and allows setting main menu music.",
+      "id": "level.music"
+    },
+    {
+      "type": "embedded",
+      "hack": "startpos_switch"
+    },
+    {
+      "type": "embedded",
+      "hack": "auto_pickup_coins"
+    },
+    {
+      "type": "embedded",
+      "hack": "instant_complete"
+    },
+    {
+      "type": "embedded",
+      "hack": "click_tp"
+    },
+    {
+      "type": "embedded",
+      "hack": "frame_stepper"
+    },
+    {
+      "type": "embedded",
+      "hack": "random_seed"
+    },
+    {
+      "type": "embedded",
+      "hack": "hitboxes"
+    },
+    {
+      "type": "embedded",
+      "hack": "smart_startpos"
+    },
+    {
+      "type": "embedded",
+      "hack": "auto_kill"
+    }
+  ]
+}

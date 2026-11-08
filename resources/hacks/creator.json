@@ -1,0 +1,9 @@
+{
+  "title": "Creator",
+  "items": [
+    {
+      "type": "embedded",
+      "hack": "hide_triggers"
+    }
+  ]
+}

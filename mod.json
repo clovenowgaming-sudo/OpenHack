@@ -1,0 +1,18 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"android": "2.2081"
+	},
+	"version": "v2.7.0",
+	"id": "vinz.openhack-2-7",
+	"name": "OpenHack-2.7",
+	"developer": "Vinz (port of Prevter's OpenHack)",
+	"description": "OpenHack for Android: a touch-friendly hack menu for Geometry Dash. Tap the small round button to open it.",
+	"tags": ["universal", "gameplay", "cheats"],
+	"resources": {
+		"files": [
+			"resources/fonts/*",
+			"resources/hacks/*"
+		]
+	}
+}

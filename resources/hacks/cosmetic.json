@@ -1,0 +1,21 @@
+{
+  "title": "Cosmetic",
+  "items": [
+    {
+      "type": "embedded",
+      "hack": "rgb_icons"
+    },
+    {
+      "type": "embedded",
+      "hack": "accurate_percentage"
+    },
+    {
+      "type": "embedded",
+      "hack": "custom_wave_trail"
+    },
+    {
+      "type": "embedded",
+      "hack": "hide_pause"
+    }
+  ]
+}

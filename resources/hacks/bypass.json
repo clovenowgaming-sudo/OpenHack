@@ -1,0 +1,23 @@
+{
+  "title": "Bypass",
+  "items": [
+    {
+      "type": "toggle",
+      "title": "Text Bypass",
+      "description": "Remove character count limit on text inputs.",
+      "id": "bypass.text"
+    },
+    {
+      "type": "toggle",
+      "title": "Character Filter",
+      "description": "Allows entering special characters in text inputs.",
+      "id": "bypass.filter"
+    },
+    {
+      "type": "toggle",
+      "title": "Unlock All Icons",
+      "description": "Unlocks all icons, colors and trails.",
+      "id": "bypass.icons"
+    }
+  ]
+}

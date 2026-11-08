@@ -1,0 +1,23 @@
+{
+  "title": "Universal",
+  "items": [
+    {
+      "type": "toggle",
+      "title": "Safe Mode",
+      "description": "Disables progress saving if you don't want to beat the level.",
+      "id": "universal.safemode"
+    },
+    {
+      "type": "embedded",
+      "hack": "autosafemode"
+    },
+    {
+      "type": "embedded",
+      "hack": "menu_gameplay"
+    },
+    {
+      "type": "embedded",
+      "hack": "auto_save"
+    }
+  ]
+}
